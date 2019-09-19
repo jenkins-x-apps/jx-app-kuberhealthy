@@ -1,0 +1,6 @@
+dependencies:
+- name: kuberhealthy
+  repository: https://kubernetes-charts.storage.googleapis.com
+  version: 1.2.6
+digest: sha256:b1a2749d174adc9d291c1fad72f5ed1c99290605c94df016b019171e3d76aecb
+generated: "2019-09-19T11:20:44.347847+01:00"
