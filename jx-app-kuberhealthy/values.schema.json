@@ -1,0 +1,22 @@
+{
+  "$id": "https://example.com/address.schema.json",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "description": "values.yaml for jx-app-kuberhealthy",
+  "type": "object",
+  "properties": {
+    "kuberhealthy": {
+      "type": "object",
+      "properties": {
+        "prometheus": {
+          "type": "object",
+            "enabled": {
+              "type": "boolean",
+              "title": "Install Prometheus?",
+              "description": "See https://github.com/Comcast/kuberhealthy#installation"
+            }
+          }
+        }
+      }
+    }
+  }
+}

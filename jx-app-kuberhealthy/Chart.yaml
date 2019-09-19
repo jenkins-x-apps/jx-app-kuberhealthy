@@ -1,0 +1,4 @@
+apiVersion: v1
+description: The Kuberhealthy App for Jenkins X
+name: jx-app-kuberhealthy
+version: 0.1.0-SNAPSHOT
