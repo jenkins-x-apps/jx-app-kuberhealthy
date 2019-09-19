@@ -14,7 +14,6 @@
               "title": "Install Prometheus?",
               "description": "See https://github.com/Comcast/kuberhealthy#installation"
             }
-          }
         }
       }
     }
